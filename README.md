@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yosb2
+- Hi, I’m @yosb2
 
 <!---
 yosb2/yosb2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
